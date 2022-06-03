@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maheen85
-- 👀 I’m interested in Android app development 
+- 👀 I’m interested in web projects using .NET and html css and Android app development 
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on projects 
 - 📫 You can message me at my linked in 
