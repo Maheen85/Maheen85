@@ -1,4 +1,4 @@
-Hello. I am Maheen Shaikh [@Maheen85] a Bachelor in CS&IT.
+Hello. I am Maheen Shaikh a Bachelor in CS&IT.
 
 I find the process of software development very interesting. I like to learn bit by bit from ideation, analysis, identifying requirement all the way to creating conceptual models - identifying objects ,abstractions ,class relationships etc
 
