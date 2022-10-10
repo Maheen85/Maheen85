@@ -29,7 +29,7 @@ I have been taking online courses through various platforms and enjoying every b
 
 I am interested in software development - mobile Android App development and web development- HTML, CSS, C#.
 
-I find the process of software development very interesting from ideation, analysis, identifying requirement all the way to creating conceptual models - identifying objects ,abstractions ,class relationships etc
+I find the process of software development very interesting. 
 
 I like to set goals for my self both professional and personal. This keeps me motivated to better myself by constant learning, growth and development. 
 
