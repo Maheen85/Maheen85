@@ -1,38 +1,37 @@
 ## About Me
 
-Hello. I am Maheen Shaikh a Bachelor in CS&IT. These days I am learning web development using bootstrap 5, C# and .NET core 6 Razor and Blazer Server Side through Microsoft Learn.
-
-I have completed :
-
-- Google IT automation with Python Specialization ( 6 courses) in 2021 through Coursera.
-
-- UI/UX Foundations certification from Coursera in 2021
-
-- Android Basics through Udacity 2018.
-
-
-### CAREER GAP : 
-
-I have been raising my family and caregiving. During this joyful phase of my life I treasured lots of beautiful memories of my kids growing up.
-
-I also took this time as an opportunity to reflect and grow as a person, who is open to new and diverse ideas and accepting all the different perspectives each of us are born with ... our unique selves. 
-
+Dear visitor welcome to my profile :) I am Maheen Shaikh. I have a degree in Bachelors in CS&IT.
 
 ### UP-SKILLING :
 
-Knowing that the tech industry is very fast moving I knew that i have to update myself on the latest technologies. 
+I have completed :
+
+- Instructional Design: Adult Learners from LinkedIn.
+
+- Technical Writing: Quick Start Guides from LinkedIn.
+  
+- Google IT automation with Python Specialization ( 6 courses) in 2021 through Coursera.
+    
+- UI/UX Foundations certification from Coursera in 2021
+
+- Android Basics through Udacity 2018.
 
 I have been taking online courses through various platforms and enjoying every bit of the learning experience. 
 
 
 ### INTERESTS : 
 
-I am interested in software development - mobile Android App development and web development- HTML, CSS, C#.
+I am interested in e-learning development, instructional design, adult learning and presentation. 
 
-I find the process of software development very interesting. 
+I keep learning and getting better at coding in HTML5, CSS and JavaScript.
+
+I find the process of software development both mobile and web very interesting. I also enjoy learning about latest technologies like blockchain, web 3 etc.  
 
 I like to set goals for my self both professional and personal. This keeps me motivated to better myself by constant learning, growth and development. 
 
 
 
-Thanks for visiting my profile. I look forward to connect and collaborate on projects relating to software development.
+Thanks for visiting my profile. I look forward to connect and collaborate.
+
+Best Regards,
+Maheen Shaikh.
