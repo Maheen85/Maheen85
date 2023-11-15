@@ -6,32 +6,27 @@ Hey there, I am Maheen Shaikh. I have a degree in Bachelors in CS&IT.
 
 I have completed :
 
-- Instructional Design: Adult Learners from LinkedIn.
+- Android Basics through Udacity.
 
-- Technical Writing: Quick Start Guides from LinkedIn.
-  
-- Google IT automation with Python Specialization ( 6 courses) in 2021 through Coursera.
+- Google IT automation with Python Specialization ( 6 courses) through Coursera.
     
-- UI/UX Foundations certification from Coursera in 2021
-
-- Android Basics through Udacity 2018.
+- UI/UX Foundations certification from Coursera.
 
 I have been taking online courses through various platforms and enjoying every bit of the learning experience. 
 
 
 ### INTERESTS : 
 
-I am interested in e-learning development, instructional design, adult learning and presentation. 
+I keep solidifying my knowledge in software development and design through various online courses. 
 
-I keep learning and getting better at coding in HTML5, CSS and JavaScript.
+I keep learning and getting better at coding in C#,JavaScript,Android,ASP.NET Core,HTML5 and CSS.
 
-I find the process of software development both mobile and web very interesting. I also enjoy learning about latest technologies like blockchain, web 3 etc.  
+I find the process of software development both mobile and web very interesting. I also enjoy learning about how latest technologies work like blockchain, web 3 etc.  
 
 I like to set goals for my self both professional and personal. This keeps me motivated to better myself by constant learning, growth and development. 
 
 
-
-Thanks for visiting my profile. I look forward to connect and collaborate.
+Thanks for visiting my profile. I look forward to connect and collaborate with you.
 
 Best Regards,
 Maheen Shaikh.
