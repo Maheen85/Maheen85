@@ -1,6 +1,6 @@
 ## About Me
 
-Dear visitor welcome to my profile :) I am Maheen Shaikh. I have a degree in Bachelors in CS&IT.
+Hey there, I am Maheen Shaikh. I have a degree in Bachelors in CS&IT.
 
 ### UP-SKILLING :
 
