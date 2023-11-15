@@ -4,6 +4,8 @@ Hey there, I am Maheen Shaikh. I have a degree in Bachelors in CS&IT.
 
 ### UP-SKILLING :
 
+- Data Structure and Algorithms is a topic I keep learning and finding it even more interesting everytime.
+
 I have completed :
 
 - Android Basics through Udacity.
@@ -17,7 +19,7 @@ I have been taking online courses through various platforms and enjoying every b
 
 ### INTERESTS : 
 
-I keep solidifying my knowledge in software development and design through various online courses. 
+I keep solidifying my knowledge in data structure and algorithms and software development and design through various online courses. 
 
 I keep learning and getting better at coding in C#,JavaScript,Android,ASP.NET Core,HTML5 and CSS.
 
